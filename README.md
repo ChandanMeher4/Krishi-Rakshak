@@ -41,11 +41,11 @@ This project is a mix of software and hardware working together. Here’s a look
 **Component** | **Tools Used**  
 --- | ---  
 **Languages** | JavaScript, Python  
-**Frameworks** | React.js, FastAPI, Streamlit, Tailwind CSS  
+**Frameworks** | React.js, FastAPI, Streamlit, Tailwind CSS, epress js/ Node js  
 **Models** | CNN, Random Forest, LSTM  
 **Libraries** | numpy, pandas, matplotlib, sklearn, joblib, tensorflow.keras, PIL/Pillow, requests  
 **APIs** | OpenWeather API, Browser Geolocation API, Custom Geolocation API    
-**Database** | Firebase   
+**Database** | MongoDB   
 
 ---
 
